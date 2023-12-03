@@ -88,6 +88,10 @@ color:#FFF;
     body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-left-border-triangle > svg > polygon{
         fill:#F8A147
     }
+    /*dollar sign*/
+    .fs-donate .fs-donate-amounts {
+        color:#951903
+    }
 
     /*donor listing*/
    /*top line*/
@@ -102,6 +106,12 @@ color:#FFF;
    .fs-btn{
     background:#951903;
     border-radius: 25px !important;
+    }
+
+    /*read more*/
+    .fs-about-text .fs-btn-read-more{
+        background:#951903;
+        color:#FFF;
     }
 
 
