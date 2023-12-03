@@ -1,10 +1,14 @@
 /* deep red #951903 */
 /* orange #F8A147 */
 
-.a-delay-200ms{
+
+/*big titles*/
+.a-delay-200ms, body .fs-root h3 {
     color:#951903;
 }
-.fs-header .page-header h2 {
+
+/*small titles*/
+.fs-header .page-header h2 , .fs-about h4{
     color:#F8A147;
 }
 
@@ -32,4 +36,29 @@ color:#FFF;
     }
     .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
     color:#FFF;
+    }
+
+
+    /*donor listing*/
+   /*top line*/
+   .fs-partners>div{
+    border-top:6px solid #F8A147;
+    }
+    /*"our donors"*/
+   .text-center h3, .fs-partners h3 span {
+    color:#951903;
+    }
+     /*"view all donors / be the first"*/
+   .fs-btn{
+    background:#951903;
+    border-radius: 25px !important;
+    }
+
+     /*donate page*/
+   .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
+    color:#951903;
+    }
+    .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
+        background:#951903;
+    border-radius: 25px !important;
     }
