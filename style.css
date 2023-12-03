@@ -37,7 +37,13 @@ color:#FFF;
     .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
     color:#FFF;
     }
-
+/*section next to countdown*/
+    .fs-donate {
+        background:#F8A147
+    }
+div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-top-border-triangle > svg > polygon{
+        fill:#F8A147
+    }
 
     /*donor listing*/
    /*top line*/
@@ -53,6 +59,13 @@ color:#FFF;
     background:#951903;
     border-radius: 25px !important;
     }
+
+
+    /*footer*/
+   .fs-footer {
+    background: #951903;
+    border-top: 1px solid #951903;
+}
 
      /*donate page*/
    .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
