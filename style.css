@@ -1,0 +1,35 @@
+/* deep red #951903 */
+/* orange #F8A147 */
+
+.a-delay-200ms{
+    color:#951903;
+}
+.fs-header .page-header h2 {
+    color:#F8A147;
+}
+
+/*donate now and about campaign */
+.donate-button .donate-button-text {
+    background:#951903;
+  border-radius: 25px !important;
+  color:#FFF;
+  }
+
+  /*goal section*/
+  .jumbotron.fs-header {
+    border-bottom: 4px solid #951903;
+}
+.fs-goal{
+background:#951903 ;
+}
+.fs-goal .fs-goal-text strong {
+color:#FFF;
+}
+
+/*countdown*/
+.fs-countdown {
+    background:#951903;
+    }
+    .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
+    color:#FFF;
+    }
