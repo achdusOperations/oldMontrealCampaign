@@ -65,7 +65,8 @@
 .fs-goal{
 background:#951903 ;
 }
-.fs-goal .fs-goal-text strong {
+.fs-goal .fs-goal-text strong , .fs-goal .fs-goal-graph-container .fs-goal-graph-text{
+
 color:#FFF;
 }
 
@@ -92,6 +93,7 @@ color:#FFF;
     .fs-donate .fs-donate-amounts {
         color:#951903
     }
+    
 
     /*donor listing*/
    /*top line*/
