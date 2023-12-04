@@ -10,7 +10,7 @@
    @media screen and (max-width: 700px) {
    .fs-header:before {
     background-image: 
-   url("https://www.chabadone.org/media/images/1255/KHjA12559447.png");
+   url("https://www.chabadone.org/media/images/1256/ebDV12560523.png");
    background-size:100% 100%;
    }
    }
@@ -47,7 +47,7 @@
    }
  
 /*big titles*/
-.a-delay-200ms, body .fs-root h3 {
+.a-delay-200ms, body .fs-root h3 , body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h3{
     color:#951903;
 }
 
