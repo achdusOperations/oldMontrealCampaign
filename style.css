@@ -41,10 +41,7 @@
    .fs-header-top .fs-logo-container:after, .fs-header-top .fs-logo-container:before {
    background:#F8A147;
    }
-   /*social buttons*/
-   .a2a_button_facebook, .a2a_button_twitter, .a2a_button_email, .a2a_dd{
-    background:#951903
-   }
+ 
 /*big titles*/
 .a-delay-200ms, body .fs-root h3 {
     color:#951903;
