@@ -41,6 +41,10 @@
    .fs-header-top .fs-logo-container:after, .fs-header-top .fs-logo-container:before {
    background:#F8A147;
    }
+   /*boruch hashem*/
+   #BaruchHashem.baruch_hashem {
+    color:#FFF;
+   }
  
 /*big titles*/
 .a-delay-200ms, body .fs-root h3 {
@@ -87,9 +91,13 @@ color:#FFF;
     .fs-donate {
         background:#F8A147
     }
-    body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-left-border-triangle > svg > polygon{
+    /*body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-left-border-triangle > svg > polygon{
+        fill:#F8A147
+    }*/
+    div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
         fill:#F8A147
     }
+    
     /*dollar sign*/
     .fs-donate .fs-donate-amounts {
         color:#951903
