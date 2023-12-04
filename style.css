@@ -18,7 +18,7 @@
    /*logo*/
    img.fs-logo{
    content: 
-   url("https://www.chabadone.org/media/images/1255/QwYV12559446.png");
+   url("https://www.chabadone.org/media/images/1255/YPWI12559664.png");
    background-size:100% 100%;
    } 
    /*lines around logo and space*/
@@ -40,6 +40,10 @@
    }
    .fs-header-top .fs-logo-container:after, .fs-header-top .fs-logo-container:before {
    background:#F8A147;
+   }
+   /*social buttons*/
+   .a2a_button_facebook, .a2a_button_twitter, .a2a_button_email, .a2a_dd{
+    background:#951903
    }
 /*big titles*/
 .a-delay-200ms, body .fs-root h3 {
