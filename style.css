@@ -82,7 +82,7 @@ color:#FFF;
 .fs-countdown {
     background:#951903;
     }
-    body .fs-root h3, .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
+    body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-countdown.text-center.d-js-viewport-in > h3,.fs-footer .row>div:nth-of-type(1) h3, .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
     color:#FFF;
     }
     /*maximize in countdown*/
