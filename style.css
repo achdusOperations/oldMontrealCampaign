@@ -47,7 +47,7 @@
    }
  
 /*big titles*/
-.a-delay-200ms, body .fs-root h3 , body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h3{
+.a-delay-200ms, body .fs-root h3 , .fs-partners h3, body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h3{
     color:#951903;
 }
 
@@ -61,6 +61,9 @@
     background:#951903;
   border-radius: 25px !important;
   color:#FFF;
+  }
+  .donate-button .donate-button-text:hover{
+    background: #F8A147;
   }
 
   /*goal section*/
