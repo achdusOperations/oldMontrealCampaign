@@ -94,6 +94,7 @@ color:#FFF;
     .fs-donate {
         background:#F8A147
     }
+    
     /*body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-left-border-triangle > svg > polygon{
         fill:#F8A147
     }*/
@@ -120,6 +121,9 @@ color:#FFF;
    .fs-btn{
     background:#951903;
     border-radius: 25px !important;
+    }
+    .fs-btn:hover{
+        background: #F8A147;
     }
 
     /*read more*/
