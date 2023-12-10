@@ -91,7 +91,7 @@ color:#FFF;
     }
     /*left until...*/
     h3.fs-countdown-message {
-        color: #FFF;
+        color: #FFF !important;
     }
 
 /*section next to countdown*/
