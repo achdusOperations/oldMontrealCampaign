@@ -89,6 +89,10 @@ color:#FFF;
     .fs-countdown h3 strong {
         color:#F8A147
     }
+    /*left until...*/
+    h3.fs-countdown-message {
+        color: #FFF;
+    }
 
 /*section next to countdown*/
     .fs-donate {
