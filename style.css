@@ -164,3 +164,21 @@ color:#FFF;
     .fs-partners .fs-partner-container .fs-partner .fs-partner-donation-amount, .fs-partners .fs-partner-container .fs-partner .fs-partner-name {
     color:#FFF;
     }
+    /*matchers*/
+
+    /*circle*/
+    .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
+        box-shadow: inset 0 0 0 2px #F8A147;
+    }
+    /*tier*/
+    .fs-matchers .fs-matcher .fs-matcher-title {
+        color:#F8A147;
+    }
+    /*details*/
+    .fs-matchers .fs-matcher .fs-matcher-subtitle {
+        color:#951903;
+    }
+    /*background*/
+    .fs-matchers{
+        background: #FFF;
+    }
