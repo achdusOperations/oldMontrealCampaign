@@ -177,6 +177,7 @@ color:#FFF;
     /*details*/
     .fs-matchers .fs-matcher .fs-matcher-subtitle {
         color:#951903;
+        font-weight:bold;
     }
     /*background*/
     .fs-matchers{
