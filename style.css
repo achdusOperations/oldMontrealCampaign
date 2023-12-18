@@ -170,6 +170,10 @@ color:#FFF;
     .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
         box-shadow: inset 0 0 0 2px #F8A147;
     }
+    /*maximize...*/
+    div.container-fluid.fs-matchers > div > h3 > span{
+        font-weight:bold;
+    }
     /*tier*/
     .fs-matchers .fs-matcher .fs-matcher-title {
         color:#F8A147;
