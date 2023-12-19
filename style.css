@@ -183,6 +183,17 @@ color:#FFF;
         color:#951903;
         font-weight:bold;
     }
+      /*donors names on separate lines. width is 100% divided by amount of matching categories*/
+  .fs-matchers .fs-matcher{
+    margin-right:0px;
+    margin-left:0px;
+    width:50%;
+  }
+  @media (max-width: 991px){
+    .fs-matchers .fs-matcher{
+      width:100%;
+    }
+  }
     /*background*/
     .fs-matchers{
         background: #FFF;
