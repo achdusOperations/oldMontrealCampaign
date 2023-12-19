@@ -187,3 +187,7 @@ color:#FFF;
     .fs-matchers{
         background: #FFF;
     }
+    /*every ¤...*/
+    .fs-matchers .fs-matchers-intro strong{
+        color:#F8A147
+    }
